@@ -1,0 +1,17 @@
+.HeaderStyle{
+    background-color:lightblue; 
+    margin: 0;
+}
+
+.Main-Style{
+    background-color:azure;
+    margin: 0;
+}
+
+.FooterStyle{
+    background-color:#a7adba;
+}
+
+.font-color{
+    color: white;
+}
